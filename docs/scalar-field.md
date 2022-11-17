@@ -5,4 +5,4 @@ $$
 f(x, y, z) \in \mathbb{R}
 $$
 
-is a scalar field in three-dimensional Cartesian coordinates system.
+is a scalar field in three-dimensional Cartesian coordinates system with $x \in \mathbb{R}$, $y \in \mathbb{R}$, $z \in \mathbb{R}$.
