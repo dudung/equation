@@ -1,7 +1,7 @@
 # fourier's law
 It is the first law of heat conduction, known as Forier's law, states that the flux heat in a homogenous body is in the direction of, and proportional to, the temperature gradient
 
-\begin{equation}\tag{1}\label{fouriers-law}
+\begin{equation}
 \vec{q}_h = - \kappa \vec{\nabla} T,
 \end{equation}
 
