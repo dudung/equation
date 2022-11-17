@@ -2,7 +2,7 @@
 some equations
 
 
-## basic
+## basics
 + [scalar](scalar.md)
 + [vector](vector.md)
 + [scalar field](scalar-field.md)
