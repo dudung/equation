@@ -15,3 +15,8 @@ some equations
 
 ## laws
 + [fourier's law](fouriers-law.md)
+
+
+## finite difference
++ [finite difference approximation of first-order derivatives](fda-1-od.md)
++ [finite difference approximation of second-order derivatives](fda-2-od.md)
