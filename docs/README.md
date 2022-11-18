@@ -22,6 +22,12 @@ some equations
 + [fourier's law](fouriers-law.md)
 
 
+## matrix
++ [matrix](matrix.md)
++ [matrix addition](matrix-add.md)
++ [matrix substraction](matrix-sub.md)
+
+
 ## method
 + [forward euler method](euler-forward.md)
 + [backward euler method](euler-backward.md)
