@@ -30,6 +30,10 @@ some equations
 + [fourier's law](fouriers-law.md)
 
 
+## ideal gas
++ [work done by gas](work-by-gas.md)
+
+
 ## matrices
 + [matrix](matrix.md)
 + [zero matrix](zero-matrix.md)
