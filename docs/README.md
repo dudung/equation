@@ -30,6 +30,7 @@ some equations
 + [matrix unit](matrix-unit.md)
 + [matrix addition](matrix-addition.md)
 + [matrix substraction](matrix-substraction.md)
++ [matrix multiplication](matrix-multiplication.md)
 
 
 ## methods
