@@ -8,7 +8,7 @@ a_{11} & a_{12} & a_{13} & \dots & a_{1N} \newline
 a_{21} & a_{12} & a_{13} & \dots & a_{2N} \newline
 a_{31} & a_{12} & a_{13} & \dots & a_{3N} \newline
 \vdots & \vdots & \vdots & \ddots & \vdots \newline
-a_{M1} & a_{M2} & a_{M3} & \dots & a_{MN} \newline
+a_{M1} & a_{M2} & a_{M3} & \dots & a_{MN}
 \end{array}
 \right]
 $$
