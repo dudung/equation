@@ -11,6 +11,7 @@ some equations
 + [gradient](gradient.md)
 + [divergence](divergence.md)
 + [curl](curl.md)
++ [laplacian in cartesian coordinates](laplacian-cartesian-coordinates.md)
 
 
 ## finite difference
@@ -18,7 +19,14 @@ some equations
 + [finite difference approximation of second-order derivatives](fda-2-od.md)
 
 
-## laws
+## fluids
++ [bernoulli's equation](bernoullis-equation.md)
++ [hidrostatic pressure](hidrostatic-pressure.md)
++ [fick's first law](ficks-1st-law.md)
++ [fick's second law](ficks-2nd-law.md)
+
+
+## heat transfer
 + [fourier's law](fouriers-law.md)
 
 
@@ -33,6 +41,17 @@ some equations
 + [matrix multiplication](matrix-multiplication.md)
 
 
+## mechanics
++ [newton's first law](newtons-1st-law.md)
++ [newton's second law](newtons-2nd-law.md)
++ [newton's third law](newtons-3rd-law.md)
+
+
 ## methods
 + [forward euler method](euler-forward.md)
 + [backward euler method](euler-backward.md)
+
+
+## quadratic equation
++ [quadratic equation](quadratic-equation.md)
++ [quadratic formula](quadratic-formula.md)
