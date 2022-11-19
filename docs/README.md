@@ -24,6 +24,8 @@ some equations
 
 ## matrix
 + [matrix](matrix.md)
++ [zero matrix](zero-matrix.md)
++ [identity matrix](identity-matrix.md)
 + [matrix of ones](matrix-of-ones.md)
 + [matrix addition](matrix-addition.md)
 + [matrix substraction](matrix-substraction.md)
