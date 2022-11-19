@@ -31,6 +31,7 @@ some equations
 
 
 ## ideal gas
++ [ideal gas law](ideal-gas-law.md)
 + [work done by gas](work-by-gas.md)
 
 
