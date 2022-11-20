@@ -60,3 +60,12 @@ some equations
 ## quadratic equation
 + [quadratic equation](quadratic-equation.md)
 + [quadratic formula](quadratic-formula.md)
+
+
+## wave
++ [wave speed formula](wave-speed-formula.md)
++ [wave equation](wave-equation.md)
++ [solution of 1-d wave equation](wave-equation-1d-solution.md)
++ [phase of sinusoidal function](phase-sinusoidal-function.md)
++ [periodic travelling wave](periodic-travelling-wave.md)
++ [pressure in plane sound wave](plane-sound-wave.md)
